@@ -75,7 +75,7 @@ To run this project locally, follow these steps:
 - [❌ X](https://x.com/devtononjacopo)
 - [🎨 Dribbble](https://dribbble.com/tononjacopo)
 
-📩 **Email**: [your.email@example.com](mailto:your.email@example.com)
+📩 **Email**: [info@tononjacopo.com](mailto:info@tononjacopo.com)
 
 ## 📝 License
 
